@@ -6,7 +6,7 @@ import os
 API_ID = os.getenv("API_ID", "29171167")
 API_HASH = os.getenv("API_HASH", "7ea2149629e445936619f06a3c0dc716")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-ADMIN = int(os.getenv("ADMIN", "1049173662 7251898668"))
+ADMIN = int(os.getenv("ADMIN", "7251898668"))
 
 DUMP_CHANNEL = int(os.getenv("DUMP_CHANNEL", "-1002264638393")) #Channel Id
 LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1002264638393"))
