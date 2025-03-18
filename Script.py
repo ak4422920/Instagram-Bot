@@ -8,7 +8,7 @@ I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ Iɴsᴛᴀɢʀᴀᴍ ᴘᴏsᴛ ᴀɴᴅ 
 
 Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏ, ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅
 
-<blockquote>𝖬𝖺𝖽𝖾 𝖡𝗒 @Dypixx</blockquote></b>"""
+<blockquote>𝖬𝖺𝖽𝖾 𝖡𝗒 @Cineoriginals</blockquote></b>"""
   
   FORCE_SUBSCRIBE_TEXT = """<b>{}, Tᴏ ᴜsᴇ ᴛʜᴇ ʙᴏᴛ ʏᴏᴜ ᴍᴜsᴛ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ғɪʀsᴛ. Tʜᴇ ʙᴏᴛ ᴡɪʟʟ ɴᴏᴛ ᴘʀᴏᴄᴇss ᴀɴʏ ʀᴇǫᴜᴇsᴛs ᴡɪᴛʜᴏᴜᴛ ᴊᴏɪɴɪɴɢ.
 
@@ -23,7 +23,7 @@ Sᴇʀᴠᴇʀ: Rᴇɴᴅᴇʀ 🌐
 Bᴜɪʟᴅ Sᴛᴀᴛᴜs: V1.3 🚀
 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: Aᴠᴀɪʟᴀʙʟᴇ (Fʀᴇᴇ) 💻 
 
-<blockquote>𝖬𝖺𝖽𝖾 𝖡𝗒 @Dypixx</blockquote></b>"""
+<blockquote>𝖬𝖺𝖽𝖾 𝖡𝗒 @Akmoviebotz</blockquote></b>"""
   
   HELP_TXT = """<b>Tᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ɴᴇᴇᴅ ᴀ ʀᴇᴇʟ ᴏʀ ᴘᴏsᴛ ʟɪɴᴋ.
   
@@ -31,4 +31,4 @@ Jᴜsᴛ sᴇɴᴅ ᴛʜᴇ ʀᴇᴇʟ ᴏʀ ᴘᴏsᴛ ʟɪɴᴋ, ᴀɴᴅ ᴛ�
 
 Aғᴛᴇʀ ᴛʜᴀᴛ ᴘʀᴏᴄᴇss, ᴛʜᴇ ʙᴏᴛ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴀ ғʟᴏᴏᴅ ᴡᴀʀɴɪɴɢ. Yᴏᴜ sʜᴏᴜʟᴅ ᴡᴀɪᴛ ғᴏʀ 5 ᴍɪɴᴜᴛᴇs; ᴀғᴛᴇʀ 5 ᴍɪɴᴜᴛᴇs, ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ᴀɢᴀɪɴ. 
 
-<blockquote>Iғ ᴀɴʏ ɪssᴜᴇs ᴄᴏᴍᴇ ᴜᴘ, ᴄᴏɴᴛᴀᴄᴛ @Dypixx</blockquote></b>"""
+<blockquote>Iғ ᴀɴʏ ɪssᴜᴇs ᴄᴏᴍᴇ ᴜᴘ, ᴄᴏɴᴛᴀᴄᴛ @Akmoviebotz</blockquote></b>"""
